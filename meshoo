@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+<style>
+  a{
+    text-decoration:none;
+    padding:30px;
+    font-size:25px;
+  }
+  #id1{
+      border:1px solid black;
+      position:relative;
+      top:40px;
+  }
+  #id3{
+    border:1px solid black;
+    margin:5px;
+  }
+</style>
+
+<body>
+  <hr color="purple" size="100%" width="100%">
+  <h1 style="position: absolute;top:1px;right:400px;color:white;font-size:50px;font-family: serif">Meshoo</h1>
+  <div id="id1">
+      <img src="https://assets.ajio.com/medias/sys_master/root/20240920/G9no/66ed515a260f9c41e817260c/-473Wx593H-443048181-green-MODEL.jpg" width="300px" height="350">
+     <p style="font-size:30px"><b>Solid over sized shirts<br>
+    <span style="font-size:25px">Price:-</span><span style="color:green;font-size:25px;">1000 (50% OFF)</span></b></p>
+     <p style="color:red;font-size:20px"> only few left</p>
+     </div><br><br>
+     <div>
+       <h1 style="color:skyblue; position: absolute;top:130px;left:340px;font-size:45px"> Solid Over Sized Shirts</h1>
+       <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYY_aUmmlOzp-7YZi0_Sfsg2FdINOm2hs6A&s width="150px" height="180px" style="position: absolute;top:250px;left:350px">
+       <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRixl3v3LPfykxXYNtVpBffTA9OepPxW0u7gQ&s width="150px" height="180px" style="position: absolute;top:250px;left:550px">
+       <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQGsXPmOWNne0lMCRsCCBm2l3w5gmvSVrjEKnFiGk7T2geF_ZyQ4jaVBVS&s=10 width="150px" height="180px" style="position: absolute;top:250px;left:750px">
+       <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ipCpm8rMdGON2XOYOAlArts9os_PqMFCwQ&usqp=CAU width="150px" height="180px" style="position: absolute;top:450px;left:350px">
+       <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL7xdbD2IT9hRnnPQOq4Sm-Ysd0FXsInqLfg&usqp=CAU width="150px" height="180px" style="position: absolute;top:450px;left:550px">
+        <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYY_aUmmlOzp-7YZi0_Sfsg2FdINOm2hs6A&s width="150px" height="180px" style="position: absolute;top:450px;left:750px">
+       
+     </div><br><br>
+<div id="links">
+    <a href="#Kaif1">👉 PRODUCT DETAILS</a><br><br>
+    <a href="#kaif2">👉REVIEW</a><br><br>
+    <a href="#kaif3">👉SELLER DETAILS</a><br><br>
+    <a href="#kaif4">👉CUSTOMER SERVICE</a><br><br>
+    </div>
+
+    <div id="kaif1">
+      <h1 style="font-size:55px">Product details</h1>
+      <p>BLACK PRINTED LYCRA SHIRT FOR MEN'S <br>
+Name: BLACK PRINTED LYCRA SHIRT FOR MEN'S <br>
+Fabric: Lycra<br>
+Sleeve Length: Long Sleeves<br>
+Pattern: Checked<br>
+Net Quantity (N): 1<br>
+Sizes:<br>
+S (Chest Size: 40 in, Length Size: 27 in) <br>
+M (Chest Size: 42 in, Length Size: 27 in) <br>
+L (Chest Size: 44 in, Length Size: 28 in) <br>
+XL (Chest Size: 46 in, Length Size: 30 in) <br>
+XXL (Chest Size: 48 in, Length Size: 31 in)<br> 
+
+We presents new design and stylish shirt in india. wear this beautiful shirt in marriage and festive season to look handsome. it have Long lasting fabric and trendy colors make it evergreen for casual and formal usage. You can use it on jeans as well as it is appropriate as formal office wear. Acurate stitching by skilled workers gives it authentic classic look. You will love to wear it for multi purpose use as shirts boys men, shirt for men look, shirts for men stylish, casual shirt, shirts for men stylish look branded.
+Country of Origin: India</p><br><br>
+<div id="kaif2">
+    <h1 style="font-size:55px">Product review </h1>
+    <div id="id3">
+    <h2><b>Ramesh:-</b><span style="color:green">Excellent</span></h2>
+    <h1>5 Out Of <span style="color:green;font-size:30px">4 Stars</span></h1>
+    <p>Review for: Color Red Size L <br><br>
+
+Fabric and quality is top notch I got it for Rs.521... But unfortunately the size didn't fit. You need to buy one size bigger. If M is ur size u must prefer L</p>
+  </div>
+      <div id="id3">
+    <h2><b>Madesh:-</b><span style="color:red">Poor</span></h2>
+    <h1>5 Out Of <span style="color:red;font-size:30px">2 Stars</span></h1>
+    <p>Review for: Color Red Size L <br><br>
+
+Fabric and quality is top notch I got it for Rs.521... But unfortunately the size didn't fit. You need to buy one size bigger. If M is ur size u must prefer L</p>
+  </div>
+      <div id="id3">
+    <h2><b>Chandu:-</b><span style="color:Orange">Average</span></h2>
+    <h1>5 Out Of <span style="color: Orange;font-size:30px">3 Stars</span></h1>
+    <p>Review for: Color Red Size L <br><br>
+
+Fabric and quality is top notch I got it for Rs.521... But unfortunately the size didn't fit. You need to buy one size bigger. If M is ur size u must prefer L</p>
+  </div>
+     <div id="id3">
+    <h2><b>Mallika:-</b><span style="color:green">Super👌👌</span></h2>
+    <h1>5 Out Of <span style="color:green;font-size:30px">5 Stars</span></h1>
+    <p>Review for: Color Red Size L <br><br>
+
+Fabric and quality is top notch I got it for Rs.521... But unfortunately the size didn't fit. You need to buy one size bigger. If M is ur size u must prefer L</p>
+  </div>
+  </div><br><br>
+  <div id="kaif3">
+    <h1 style="font-size:55px">Seller Details</h1>
+    <h2 style="font-size:25px">KP Retailers</h2>
+   <h1>5 Out Of <span style="color:green;font-size:30px">5 Stars</span></h1>
+   <p style="font-size:25px">Sold more than <q><b>1 Million +</b></q>
+   Goods Over India<br><br>
+   We Promise That Our Product Will Satisfy Your Soul<br>
+   We Provide Friendly Prices</p>
+    
+  </div><br><br>
+<div id="kaif4">
+   <h1 style="font-size:55px">Customer Service</h1>
+  <h1>Toll Free Number:- <span style="color:skyblue">9676121215</span> 
+  <br>
+  <br>
+ <span style="font-size:40px">Contact Us</span> <br>
+ Mail:-<span style="color:blue">Kpretails@gmail.com</span>
+ <span style="font-size:30px">Adress:-<br>
+ Kp retails,bangalore road,gandinagar,<br>
+ Hyderabad, Telangana-500001</span></h1>
+  
+</div>
+
+</body>
+
+</html>
